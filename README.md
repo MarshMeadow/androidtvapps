@@ -36,10 +36,10 @@ Google Play: https://play.google.com/store/apps/details?id=nextapp.fx&gl=US
 9. Downloader:
 Google Play: https://play.google.com/store/apps/details?id=com.esaba.downloader&gl=US
 
-SmartTube:
+10. SmartTube:
 Site: https://smartyoutubetv.github.io/
 GitHub: https://github.com/yuliskov/SmartTubeNext
 
-10. ViMusic:
+11. ViMusic:
 GitHub: https://github.com/vfsfitvnm/ViMusic
 Fdroid: https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/
