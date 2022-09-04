@@ -27,6 +27,7 @@ Google Play: https://play.google.com/store/apps/details?id=com.yablio.sendfilest
 
 7. Simple File Manager Pro:
 Site: https://www.simplemobiletools.com/
+Google Play: https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro
 GitHub: https://github.com/SimpleMobileTools/Simple-File-Manager
 Fdroid: https://f-droid.org/en/packages/com.simplemobiletools.filemanager.pro/
 
