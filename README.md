@@ -22,7 +22,7 @@ About: For using sideloaded apps, plus recents...
 
 6. Send files to TV:
 [Site](https://sendfilestotv.app)
-[Google Play](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv&hl=en_US&gl=US}
+[Google Play](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv&hl=en_US&gl=US)
 
 7. Simple File Manager Pro:
 [Site](https://www.simplemobiletools.com)
