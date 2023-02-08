@@ -3,7 +3,7 @@ Appsyou should have for and with your Android TV!
 
 READ FULL LIST:
 
-1. Zank Remote - Android, Fire TV: [Google Play]\(https://play.google.com/store/apps/details?id=zank.remote&hl=en_US&gl=US)
+1. Zank Remote - Android, Fire TV: [Google Play](https://play.google.com/store/apps/details?id=zank.remote&hl=en_US&gl=US)
 
 2. MATVT: Mouse for Android TV Toggle (Now for flipphones as well):
 [GitHub](https://github.com/virresh/matvt)
